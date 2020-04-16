@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "description": "The famous Pacman game, written in ReactJs, with coronavirus, the COVID-19",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --mode production",
     "start": "cross-env NODE_ENV=development webpack-dev-server --mode development --open",
     "dev": "cross-env NODE_ENV=development webpack-dev-server --mode development --hot",
     "test": "cross-env NODE_ENV=test mocha --require babel-register \"test/**/*.spec.js\"",
     "lint": "eslint test src",
-	"predeploy": "npm run build",
-	"deploy": "gh-pages -d build"
+  	"predeploy": "npm run build",
+  	"deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
