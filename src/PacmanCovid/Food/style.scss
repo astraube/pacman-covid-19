@@ -1,0 +1,20 @@
+@import "../styles/_variables";
+
+.food {
+  display: block;
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  margin-left: -2px;
+  margin-top: -2px;
+  border-radius: 100%;
+  background-color: $component-food-color;
+
+  &.big {
+    width: 35px;
+    height: 35px;
+    margin-left: -15px;
+    margin-top: -20px;
+    background-color: transparent;
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ok": "Ok",
+  "winner_titles": [
+    "Very Good!!!",
+    "Uhuuu...",
+    "Wooowww...",
+    "Uuufaaa..."
+  ],
+  "loser_titles": [
+    "Ooops...",
+    "WTF Man...",
+    "Whatafack man",
+    "Puuuuts...",
+    "Viixiii...",
+    "Ca#@L*ooo..."
+  ],
+  "cancel": "Cancelar",
+  "save": "Salvar",
+  "update": "Atualizar",
+  "loading": "Carregando...",
+  "loading_wait": "Loading... Por favor aguarde",
+  "actions": "Ações",
+  "scores": "CLOROQUINA: ",
+  "gameOver": "Você foi contaminado(a) com o novo Coronavírus",
+  "loser": "Você perdeu !!!",
+  "winner": "Você ganhou !!!",
+  "restart_game": "Jogar Novamente",
+  "virus_name": "Coronavirus",
+  "virus_formule": "COVID-19"
+}
